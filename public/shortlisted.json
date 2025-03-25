@@ -1,221 +1,53 @@
 [
- {
-  "id": 1,
-  "name": "404 Brain Not Found",
-  "leader": "Alice Johnson"
- },
- {
-  "id": 2,
-  "name": "Hack hers",
-  "leader": "Bob Smith"
- },
- {
-  "id": 3,
-  "name": "Bytecode",
-  "leader": "Carol White"
- },
- {
-  "id": 4,
-  "name": "Web-Warriors",
-  "leader": "David Lee"
- },
- {
-  "id": 5,
-  "name": "Bit Blitz",
-  "leader": "Eva Brown"
- },
- {
-  "id": 6,
-  "name": "WEBMASTERS",
-  "leader": "Frank Green"
- },
- {
-  "id": 7,
-  "name": "ErrorHub",
-  "leader": "Grace Kim"
- },
- {
-  "id": 8,
-  "name": "Chihuahua",
-  "leader": "Henry Wilson"
- },
- {
-  "id": 9,
-  "name": "Sacred Scripts",
-  "leader": "Ivy Martinez"
- },
- {
-  "id": 10,
-  "name": "Four Brains",
-  "leader": "Jack Davis"
- },
- {
-  "id": 11,
-  "name": "OG Coders",
-  "leader": "Karen Taylor"
- },
- {
-  "id": 12,
-  "name": "MAYA",
-  "leader": "Leo Anderson"
- },
- {
-  "id": 13,
-  "name": "Logic Lab",
-  "leader": "Leo Anderson"
- },
- {
-  "id": 14,
-  "name": "Syntax Surfer",
-  "leader": "Leo Anderson"
- },
- {
-  "id": 15,
-  "name": "Codeyoddha (Akshay Singh – St. John)",
-  "leader": "Leo Anderson"
- },
- {
-  "id": 16,
-  "name": "ORPS",
-  "leader": "Leo Anderson"
- },
- {
-  "id": 17,
-  "name": "Storm breaker",
-  "leader": "Leo Anderson"
- },
- {
-  "id": 18,
-  "name": "Status 200",
-  "leader": "Leo Anderson"
- },
- {
-  "id": 19,
-  "name": "Kalki Coders",
-  "leader": "Leo Anderson"
- },{
-  "id": 20,
-  "name": "Jetha ke Jabaaz",
-  "leader": "Leo Anderson"
- },{
-  "id": 21,
-  "name": "Team Sankalp",
-  "leader": "Leo Anderson"
- },{
-  "id": 22,
-  "name": "Shield Without Sword",
-  "leader": "Leo Anderson"
- },{
-  "id": 23,
-  "name": "1Hp Clutch",
-  "leader": "Leo Anderson"
- },{
-  "id": 24,
-  "name": "Dino Coders",
-  "leader": "Leo Anderson"
- },{
-  "id": 25,
-  "name": "Smooth Operators",
-  "leader": "Leo Anderson"
- },{
-  "id": 26,
-  "name": "Grinders",
-  "leader": "Leo Anderson"
- },{
-  "id": 27,
-  "name": "SOS",
-  "leader": "Leo Anderson"
- },{
-  "id": 28,
-  "name": "AI-ssistants with Benefits",
-  "leader": "Leo Anderson"
- },{
-  "id": 29,
-  "name": "Cyber Ninjas",
-  "leader": "Leo Anderson"
- },{
-  "id": 30,
-  "name": "Master Bytes",
-  "leader": "Leo Anderson"
- },{
-  "id": 31,
-  "name": "Code Wizard",
-  "leader": "Leo Anderson"
- },{
-  "id": 32,
-  "name": "Buri Buri Jaimons",
-  "leader": "Leo Anderson"
- },{
-  "id": 33,
-  "name": "The Outliers",
-  "leader": "Leo Anderson"
- },{
-  "id": 34,
-  "name": "Hackermons",
-  "leader": "Leo Anderson"
- },{
-  "id": 35,
-  "name": "Chanda Mama",
-  "leader": "Leo Anderson"
- },{
-  "id": 36,
-  "name": "Neural Nomads",
-  "leader": "Leo Anderson"
- },{
-  "id": 37,
-  "name": "Byte Men",
-  "leader": "Leo Anderson"
- },{
-  "id": 38,
-  "name": "Byte Me",
-  "leader": "Leo Anderson"
- },{
-  "id": 39,
-  "name": "Dot-Sol",
-  "leader": "Leo Anderson"
- },{
-  "id": 40,
-  "name": "Plasmoids",
-  "leader": "Leo Anderson"
- },{
-  "id": 41,
-  "name": "Cypher Hunt",
-  "leader": "Leo Anderson"
- },{
-  "id": 42,
-  "name": "Escape Squad",
-  "leader": "Leo Anderson"
- },{
-  "id": 43,
-  "name": "Smart Contractees",
-  "leader": "Leo Anderson"
- },{
-  "id": 44,
-  "name": "A PS-V",
-  "leader": "Leo Anderson"
- },{
-  "id": 45,
-  "name": "Dark Mode",
-  "leader": "Leo Anderson"
- },{
-  "id": 46,
-  "name": "The CodeHunters",
-  "leader": "Leo Anderson"
- },{
-  "id": 47,
-  "name": "Q-Bits",
-  "leader": "Leo Anderson"
- },{
-  "id": 48,
-  "name": "Hack Web Heroes",
-  "leader": "Leo Anderson"
- },{
-  "id": 49,
-  "name": "Deciphers",
-  "leader": "Leo Anderson"
- },{
-  "id": 50,
-  "name": "Team Alliance",
-  "leader": "Leo Anderson"
- }
-]
+    { "id": 1, "name": "Buri Buri Jaimons", "leader": "Vaibhav Narute" },
+    { "id": 2, "name": "404 Brain Not Found", "leader": "HARSH TAMBADE" },
+    { "id": 3, "name": "Hack Hers", "leader": "Shrushti Khemnar" },
+    { "id": 4, "name": "ByteCode", "leader": "Om Singh" },
+    { "id": 5, "name": "Web-Warriors", "leader": "Ayush Jha" },
+    { "id": 6, "name": "Kalki Coders", "leader": "Meet Dodiya" },
+    { "id": 7, "name": "Dark Mode", "leader": "Ayush Sahu" },
+    { "id": 8, "name": "Deciphers", "leader": "Pulkit Ashara" },
+    { "id": 9, "name": "WEBMASTERS", "leader": "Aarchy Parekh" },
+    { "id": 10, "name": "A PS-V", "leader": "Vaishnavi Gaikwad" },
+    { "id": 11, "name": "Team Alliance", "leader": "Anish Sakpal" },
+    { "id": 12, "name": "Byte Me", "leader": "Jatush Hingu" },
+    { "id": 13, "name": "ErrorHub", "leader": "Harsh Dalvi" },
+    { "id": 14, "name": "The Outliers", "leader": "Abhay Padgaonkar" },
+    { "id": 15, "name": "TheCodehunters", "leader": "Shubham Sahamate" },
+    { "id": 16, "name": "Team Sankalp", "leader": "Subodh Kangale" },
+    { "id": 17, "name": "Chihuahua", "leader": "Dhruv Bhatada" },
+    { "id": 18, "name": "Shield without Sword", "leader": "Malhar Singh" },
+    { "id": 19, "name": "Status200", "leader": "Vedant Modhave" },
+    { "id": 20, "name": "HackerMons", "leader": "Bhaskar Mulik" },
+    { "id": 21, "name": "sacred scripts", "leader": "Karan Sankhe" },
+    { "id": 22, "name": "Master_Bytes", "leader": "Pranali Chitre" },
+    { "id": 23, "name": "1hP CLUTCH", "leader": "Swarnim Bane" },
+    { "id": 24, "name": "Dot_Sol", "leader": "Rohit Mangale" },
+    { "id": 25, "name": "Q-Bits", "leader": "Nikita Rai" },
+    { "id": 26, "name": "OG Coders", "leader": "Soham More" },
+    { "id": 27, "name": "MAYA", "leader": "Smit Mhatre" },
+    { "id": 28, "name": "Logic Lab", "leader": "Sahil Chalke" },
+    { "id": 29, "name": "Syntax Surfer", "leader": "Harsh Tandel" },
+    { "id": 30, "name": "Codeyoddha", "leader": "Akshay Singh" },
+    { "id": 31, "name": "DINO CODERS", "leader": "Yash Tripathi" },
+    { "id": 32, "name": "Code wizard", "leader": "Mohammed Yaseen Ron" },
+    { "id": 33, "name": "Four Brains", "leader": "Karan Gandhi" },
+    { "id": 34, "name": "Chanda Mama", "leader": "Mukeshkumar Prajapat" },
+    { "id": 35, "name": "Jetha ke Jabaaz", "leader": "Om Chauhan" },
+    { "id": 36, "name": "Plasmoids", "leader": "Piyush Bagul" },
+    { "id": 37, "name": "Bitblitz", "leader": "Atharv Karekar" },
+    { "id": 38, "name": "Smooth Operators", "leader": "Aarchi Save" },
+    { "id": 39, "name": "Grinders", "leader": "Shubham Sahu" },
+    { "id": 40, "name": "ORPS", "leader": "Om Singh" },
+    { "id": 41, "name": "SOS", "leader": "Liza Castelino" },
+    { "id": 42, "name": "AI-ssistants With Benefits", "leader": "Mohammed Ali Jaffari" },
+    { "id": 43, "name": "Cypher Hunt", "leader": "Atharv Shigwan" },
+    { "id": 44, "name": "Escape Squad", "leader": "Vishakha Roy" },
+    { "id": 45, "name": "Storm breaker", "leader": "Omkar Rajesh Yadav" },
+    { "id": 46, "name": "Neural noMads", "leader": "Kunal Ushinkar" },
+    { "id": 47, "name": "Cyber Ninjas", "leader": "Shivam Sati" },
+    { "id": 48, "name": "Hack Web Heroes", "leader": "Ketan Mahadik" },
+    { "id": 49, "name": "ByteMen", "leader": "Manas Chaubal" },
+    { "id": 50, "name": "Smart Contractees", "leader": "Aditya Hakani" }
+  ]
+  
