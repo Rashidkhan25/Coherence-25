@@ -72,8 +72,6 @@ export default function Shortlisted() {
               <tr className="text-xs sm:text-sm md:text-base ">
                 <th className="p-4 font-bold border-r border-blue-500 whitespace-nowrap">Team Name</th>
                 <th className="p-4 font-bold border-r border-blue-500 whitespace-nowrap">Leader</th>
-                <th className="p-4 font-bold border-r border-blue-500 whitespace-nowrap">Domain</th>
-                <th className="p-4 font-bold whitespace-nowrap">College</th>
               </tr>
             </thead>
 
@@ -85,12 +83,6 @@ export default function Shortlisted() {
                   </td>
                   <td className="p-4 border-r border-blue-500 text-center whitespace-nowrap">
                     {team.leader}
-                  </td>
-                  <td className="p-4 border-r border-blue-500 text-center whitespace-nowrap">
-                    {team.category}
-                  </td>
-                  <td className="p-4 text-center whitespace-nowrap">
-                    {team.college}
                   </td>
                 </tr>
               ))}

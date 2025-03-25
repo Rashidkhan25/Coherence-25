@@ -1,86 +1,221 @@
 [
  {
   "id": 1,
-  "name": "ByteBuilders",
-  "leader": "Alice Johnson",
-  "category": "AI\/ML",
-  "college": "Tech University"
+  "name": "404 Brain Not Found",
+  "leader": "Alice Johnson"
  },
  {
   "id": 2,
-  "name": "DataDynamos",
-  "leader": "Bob Smith",
-  "category": "Data Science",
-  "college": "Science College"
+  "name": "Hack hers",
+  "leader": "Bob Smith"
  },
  {
   "id": 3,
-  "name": "CloudCrafters",
-  "leader": "Carol White",
-  "category": "Cloud Computing",
-  "college": "Engineering Institute"
+  "name": "Bytecode",
+  "leader": "Carol White"
  },
  {
   "id": 4,
-  "name": "WebWizards",
-  "leader": "David Lee",
-  "category": "Web Development",
-  "college": "Digital Arts Academy"
+  "name": "Web-Warriors",
+  "leader": "David Lee"
  },
  {
   "id": 5,
-  "name": "MobileMinds",
-  "leader": "Eva Brown",
-  "category": "Mobile Apps",
-  "college": "Innovate College"
+  "name": "Bit Blitz",
+  "leader": "Eva Brown"
  },
  {
   "id": 6,
-  "name": "SecureShield",
-  "leader": "Frank Green",
-  "category": "Cybersecurity",
-  "college": "CyberTech University"
+  "name": "WEBMASTERS",
+  "leader": "Frank Green"
  },
  {
   "id": 7,
-  "name": "BlockchainBuddies",
-  "leader": "Grace Kim",
-  "category": "Blockchain",
-  "college": "Finance & Tech College"
+  "name": "ErrorHub",
+  "leader": "Grace Kim"
  },
  {
   "id": 8,
-  "name": "ARArchitects",
-  "leader": "Henry Wilson",
-  "category": "AR\/VR",
-  "college": "Design Institute"
+  "name": "Chihuahua",
+  "leader": "Henry Wilson"
  },
  {
   "id": 9,
-  "name": "IoTInnovators",
-  "leader": "Ivy Martinez",
-  "category": "IoT",
-  "college": "Global Tech University"
+  "name": "Sacred Scripts",
+  "leader": "Ivy Martinez"
  },
  {
   "id": 10,
-  "name": "QuantumQuest",
-  "leader": "Jack Davis",
-  "category": "Quantum Computing",
-  "college": "Science & Tech Academy"
+  "name": "Four Brains",
+  "leader": "Jack Davis"
  },
  {
   "id": 11,
-  "name": "EcoTech",
-  "leader": "Karen Taylor",
-  "category": "Sustainability",
-  "college": "Green College"
+  "name": "OG Coders",
+  "leader": "Karen Taylor"
  },
  {
   "id": 12,
-  "name": "HealthHackers",
-  "leader": "Leo Anderson",
-  "category": "Healthcare",
-  "college": "Medical University"
+  "name": "MAYA",
+  "leader": "Leo Anderson"
+ },
+ {
+  "id": 13,
+  "name": "Logic Lab",
+  "leader": "Leo Anderson"
+ },
+ {
+  "id": 14,
+  "name": "Syntax Surfer",
+  "leader": "Leo Anderson"
+ },
+ {
+  "id": 15,
+  "name": "Codeyoddha (Akshay Singh – St. John)",
+  "leader": "Leo Anderson"
+ },
+ {
+  "id": 16,
+  "name": "ORPS",
+  "leader": "Leo Anderson"
+ },
+ {
+  "id": 17,
+  "name": "Storm breaker",
+  "leader": "Leo Anderson"
+ },
+ {
+  "id": 18,
+  "name": "Status 200",
+  "leader": "Leo Anderson"
+ },
+ {
+  "id": 19,
+  "name": "Kalki Coders",
+  "leader": "Leo Anderson"
+ },{
+  "id": 20,
+  "name": "Jetha ke Jabaaz",
+  "leader": "Leo Anderson"
+ },{
+  "id": 21,
+  "name": "Team Sankalp",
+  "leader": "Leo Anderson"
+ },{
+  "id": 22,
+  "name": "Shield Without Sword",
+  "leader": "Leo Anderson"
+ },{
+  "id": 23,
+  "name": "1Hp Clutch",
+  "leader": "Leo Anderson"
+ },{
+  "id": 24,
+  "name": "Dino Coders",
+  "leader": "Leo Anderson"
+ },{
+  "id": 25,
+  "name": "Smooth Operators",
+  "leader": "Leo Anderson"
+ },{
+  "id": 26,
+  "name": "Grinders",
+  "leader": "Leo Anderson"
+ },{
+  "id": 27,
+  "name": "SOS",
+  "leader": "Leo Anderson"
+ },{
+  "id": 28,
+  "name": "AI-ssistants with Benefits",
+  "leader": "Leo Anderson"
+ },{
+  "id": 29,
+  "name": "Cyber Ninjas",
+  "leader": "Leo Anderson"
+ },{
+  "id": 30,
+  "name": "Master Bytes",
+  "leader": "Leo Anderson"
+ },{
+  "id": 31,
+  "name": "Code Wizard",
+  "leader": "Leo Anderson"
+ },{
+  "id": 32,
+  "name": "Buri Buri Jaimons",
+  "leader": "Leo Anderson"
+ },{
+  "id": 33,
+  "name": "The Outliers",
+  "leader": "Leo Anderson"
+ },{
+  "id": 34,
+  "name": "Hackermons",
+  "leader": "Leo Anderson"
+ },{
+  "id": 35,
+  "name": "Chanda Mama",
+  "leader": "Leo Anderson"
+ },{
+  "id": 36,
+  "name": "Neural Nomads",
+  "leader": "Leo Anderson"
+ },{
+  "id": 37,
+  "name": "Byte Men",
+  "leader": "Leo Anderson"
+ },{
+  "id": 38,
+  "name": "Byte Me",
+  "leader": "Leo Anderson"
+ },{
+  "id": 39,
+  "name": "Dot-Sol",
+  "leader": "Leo Anderson"
+ },{
+  "id": 40,
+  "name": "Plasmoids",
+  "leader": "Leo Anderson"
+ },{
+  "id": 41,
+  "name": "Cypher Hunt",
+  "leader": "Leo Anderson"
+ },{
+  "id": 42,
+  "name": "Escape Squad",
+  "leader": "Leo Anderson"
+ },{
+  "id": 43,
+  "name": "Smart Contractees",
+  "leader": "Leo Anderson"
+ },{
+  "id": 44,
+  "name": "A PS-V",
+  "leader": "Leo Anderson"
+ },{
+  "id": 45,
+  "name": "Dark Mode",
+  "leader": "Leo Anderson"
+ },{
+  "id": 46,
+  "name": "The CodeHunters",
+  "leader": "Leo Anderson"
+ },{
+  "id": 47,
+  "name": "Q-Bits",
+  "leader": "Leo Anderson"
+ },{
+  "id": 48,
+  "name": "Hack Web Heroes",
+  "leader": "Leo Anderson"
+ },{
+  "id": 49,
+  "name": "Deciphers",
+  "leader": "Leo Anderson"
+ },{
+  "id": 50,
+  "name": "Team Alliance",
+  "leader": "Leo Anderson"
  }
 ]
